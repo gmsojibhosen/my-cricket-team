@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "playHandRole": "Right-hand Bat",
+    "rating": 9.7,
+    "price": 150000,
+    "image": "https://i.ibb.co.com/qYGd2V9b/Khole.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "playHandRole": "Right-hand Bat",
+    "rating": 9.3,
+    "price": 135000,
+    "image": "https://i.ibb.co.com/NnQ4XKqH/Root.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "playHandRole": "Right-hand Bat",
+    "rating": 9.4,
+    "price": 140000,
+    "image": "https://i.ibb.co.com/RpT6hvF6/willamson.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "playHandRole": "Right-hand Bat",
+    "rating": 9.5,
+    "price": 145000,
+    "image": "https://i.ibb.co.com/HLLB5xFP/babar.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "playHandRole": "Left-hand Bat / Left-arm Spin",
+    "rating": 9.8,
+    "price": 160000,
+    "image": "https://i.ibb.co.com/NnQ4XKqH/Root.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "playHandRole": "Left-hand Bat / Right-arm Fast",
+    "rating": 9.4,
+    "price": 150000,
+    "image": "https://i.ibb.co.com/HLLB5xFP/babar.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "playHandRole": "Right-arm Leg Spin",
+    "rating": 9.6,
+    "price": 155000,
+    "image": "https://i.ibb.co.com/qYGd2V9b/Khole.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "playHandRole": "Left-arm Fast",
+    "rating": 9.2,
+    "price": 140000,
+    "image": "https://i.ibb.co.com/RpT6hvF6/willamson.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "playHandRole": "Right-arm Fast",
+    "rating": 9.5,
+    "price": 150000,
+   "image": "https://i.ibb.co.com/HLLB5xFP/babar.jpg"
+  },
+  {
+    "id": 10,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "playHandRole": "Left-hand Bat",
+    "rating": 8.9,
+    "price": 120000,
+    "image": "https://i.ibb.co.com/qYGd2V9b/Khole.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicket-Keeper",
+    "playHandRole": "Left-hand Bat",
+    "rating": 8.8,
+    "price": 118000,
+    "image": "https://i.ibb.co.com/RpT6hvF6/willamson.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Hardik Payday",
+    "country": "India",
+    "role": "All-Rounder",
+    "playHandRole": "Right-hand Bat / Right-arm Medium Fast",
+    "rating": 8.7,
+    "price": 110000,
+   "image": "https://i.ibb.co.com/NnQ4XKqH/Root.jpg"
+  }
+]
