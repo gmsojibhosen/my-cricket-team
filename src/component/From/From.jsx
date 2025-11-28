@@ -22,7 +22,7 @@ const From = () => {
                         <div className="flex justify-between mb-18 max-w-[1200px] mx-auto">
                             <div className="w-1/3">
                                 <h5 className='font-semibold text-white mb-6'>About</h5>
-                                <p className='text-gray-400'>We are a passionate team <br />dedicated to providing the best <br />services to our customers.</p>
+                                <p className='text-gray-400'>We are a passionate teams wind  <br />dedicated to providing the best <br />services to our customers.</p>
                             </div>
                             <div className='w-1/3'>
                                 <h5 className='font-semibold text-white mb-6'>Quick Links</h5>
